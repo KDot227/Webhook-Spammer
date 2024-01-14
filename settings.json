@@ -1,0 +1,7 @@
+{
+    "webhook": "YOUR_WEBHOOK_HERE",
+    "username": "YOUR_USERNAME_OF_CHOICE",
+    "message": "YOUR_MESSAGE",
+    "iterations": 10,
+    "delay": 1000
+}
